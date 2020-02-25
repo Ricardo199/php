@@ -1,6 +1,6 @@
-<form action="ganancia.php" method="POST">
-    Introdusca la base por favor <input type="text" name="bass" required/>
-    Introdusca la altura por favor <input type="text" name="alt" required/>
+<form action="geometria.php" method="POST">
+    Introdusca la base por favor <input type="text" name="bass" required/><br>
+    Introdusca la altura por favor <input type="text" name="alt" required/><br>
     <input type="submit" value="enviar" name="enviar"/>
 </form>
 <?php 
