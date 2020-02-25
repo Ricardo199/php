@@ -1,4 +1,4 @@
-<form action="comisiones.php" method="POST">
+<form action="" method="POST">
     Introdusca su salario por favor <input type="text" name="sal" required/>
     <input type="submit" value="enviar" name="enviar"/>
 </form>

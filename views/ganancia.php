@@ -1,4 +1,4 @@
-<form action="ganancia.php" method="POST">
+<form action="" method="POST">
     Introdusca el monto inical por favor <input type="text" name="mon" required/>
     <input type="submit" value="enviar" name="enviar"/>
 </form>
